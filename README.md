@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Karthika Govindan 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+
 
 ## 🚀 About Me  
 🔹 Aspiring **.NET Developer** with a focus on **ASP.NET MVC and .NET Core**.  
