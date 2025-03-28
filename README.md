@@ -28,13 +28,6 @@ Documentation | Rational Requisite, MS Visio, Pencil
 - **Project Management & Collaboration:** YouTrack, Jira, Agile Methodologies
 - **Documentation:** Rational Requisite, MS Visio, Pencil
   
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthika-govindan&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthika-govindan&theme=radical" alt="GitHub Streak">
-</p>
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthika-govindan/)  
